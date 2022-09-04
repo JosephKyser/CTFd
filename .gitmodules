@@ -1,0 +1,3 @@
+[submodule "CTFd/plugins/CTFd-Docker"]
+	path = CTFd/plugins/CTFd-Docker
+	url = git@github.com:JosephKyser/CTFd-Docker.git
